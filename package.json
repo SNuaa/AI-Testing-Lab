@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "multiparty": "^4.2.3",
+    "qs": "^6.11.2",
+    "spark-md5": "^3.0.2"
+  }
+}
