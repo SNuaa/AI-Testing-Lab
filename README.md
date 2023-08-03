@@ -1,7 +1,7 @@
-# 项目说明
+# AI Testing Lab
 
 1. `web-admin`是后台管理系统项目
-2. `web-company`是公司门户网站项目
+2. `web-company`是实验室门户网站项目
 3. `web-server`是服务端
 
 ## 安装
